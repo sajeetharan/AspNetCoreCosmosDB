@@ -1,0 +1,11 @@
+C:\AspNetCoreCosmosDB\CosmosDBClient\bin\Debug\netcoreapp2.0\CosmosDBClient.deps.json
+C:\AspNetCoreCosmosDB\CosmosDBClient\bin\Debug\netcoreapp2.0\CosmosDBClient.runtimeconfig.json
+C:\AspNetCoreCosmosDB\CosmosDBClient\bin\Debug\netcoreapp2.0\CosmosDBClient.runtimeconfig.dev.json
+C:\AspNetCoreCosmosDB\CosmosDBClient\bin\Debug\netcoreapp2.0\CosmosDBClient.dll
+C:\AspNetCoreCosmosDB\CosmosDBClient\bin\Debug\netcoreapp2.0\CosmosDBClient.pdb
+C:\AspNetCoreCosmosDB\CosmosDBClient\obj\Debug\netcoreapp2.0\CosmosDBClient.csprojResolveAssemblyReference.cache
+C:\AspNetCoreCosmosDB\CosmosDBClient\obj\Debug\netcoreapp2.0\CosmosDBClient.csproj.CoreCompileInputs.cache
+C:\AspNetCoreCosmosDB\CosmosDBClient\obj\Debug\netcoreapp2.0\CosmosDBClient.AssemblyInfoInputs.cache
+C:\AspNetCoreCosmosDB\CosmosDBClient\obj\Debug\netcoreapp2.0\CosmosDBClient.AssemblyInfo.cs
+C:\AspNetCoreCosmosDB\CosmosDBClient\obj\Debug\netcoreapp2.0\CosmosDBClient.dll
+C:\AspNetCoreCosmosDB\CosmosDBClient\obj\Debug\netcoreapp2.0\CosmosDBClient.pdb
